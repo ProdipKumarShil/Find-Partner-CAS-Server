@@ -1,0 +1,44 @@
+[
+  {
+      "id": "1st",
+      "title": "Commencement of business ",
+      "des": "Invested shareholders must confirm payment and office address ",
+      "due": "Within 180 days ",
+      "fee": "₹50,000 for the company"
+  },
+  {
+      "id": "2nd",
+      "title": "Auditor Appointment",
+      "des": "Company informs new auditor and submits ADT.1 form to ROC.",
+      "due": "Within 30 days ",
+      "fee": "₹300 per month."
+  },
+  {
+      "id": "3rd",
+      "title": "DIN eKYC",
+      "des": "Directors share personal information for identification & verification ",
+      "due": "Every Year",
+      "fee": "₹5000 one time"
+  },
+  {
+      "id": "4th",
+      "title": "DPT-3",
+      "des": "Companies report money taken from people to ROC; auditors confirm details.",
+      "due": "Within 30 days ",
+      "fee": "₹300 per month."
+  },
+  {
+      "id": "5th",
+      "title": "MCA Form AOC-4",
+      "des": "It's like an official report card for a company's documents",
+      "due": "On or Before 30th November ",
+      "fee": "₹200 per day (No upper limit)*"
+  },
+  {
+      "id": "6th",
+      "title": "MCA Form MGT-7",
+      "des": "Companies must annually report activities and finances to the registrar.",
+      "due": "On or Before 31st December",
+      "fee": "₹200 per day(No upper limit)* "
+  }
+]
